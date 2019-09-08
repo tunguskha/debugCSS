@@ -1,0 +1,23 @@
+{
+  "name": "debug-css",
+  "version": "1.0.0",
+  "description": "A tiny script that helps you debug your CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunguskha/debugCSS.git"
+  },
+  "keywords": [
+    "debug",
+    "css"
+  ],
+  "author": "Fabien \"tungu\" DUTAUD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunguskha/debugCSS/issues"
+  },
+  "homepage": "https://github.com/tunguskha/debugCSS#readme"
+}
