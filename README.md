@@ -19,6 +19,10 @@ npm i --save-dev debug-css
 ```cli
 git clone https://github.com/tunguskha/debugCSS
 ```
+or
+```cli
+curl https://git.io/JeeGO -o "debugcss.min.js"
+```
 
 ## Usage
 
