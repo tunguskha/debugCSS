@@ -7,7 +7,7 @@ A tiny script that helps you debug your CSS.
 
 #### Via NPM
 ```cli
-npm i debug-css
+npm i -D debug-css
 ```
 
 #### Via CDN
